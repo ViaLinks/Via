@@ -27,4 +27,4 @@ dependencies {
 }
 
 
-apply from: 'https://raw.githubusercontent.com/walfud/PutToMaven/v2.1.0/jcenter.gradle'
+apply from: 'https://raw.githubusercontent.com/walfud/PutToMaven/v2.1.1/jcenter.gradle'
